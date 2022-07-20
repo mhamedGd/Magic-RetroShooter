@@ -49,9 +49,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 81
   impact: {fileID: 8394952551470244595, guid: 4bbb94fd82c1f09439a4505f5f4fa8d2, type: 3}
-  speed: 4
-  diff: 0.2
-  gravity: 0.4
+  speed: 3
+  diff: 0.3
+  gravity: 0.7
 --- !u!1 &6708357992992283823
 GameObject:
   m_ObjectHideFlags: 0

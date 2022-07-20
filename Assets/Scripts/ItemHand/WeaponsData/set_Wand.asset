@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: set_Wand
   m_EditorClassIdentifier: 
   weaponType: 1
-  manaConsumption: 1
+  manaConsumption: 3
   projectile: {fileID: 6708357991533860817, guid: fcb20041fff216047934fdf9ccaa3199, type: 3}
-  numOfProjectilesToFire: 1
-  timeBetweenShots: 0.15
+  numOfProjectilesToFire: 5
+  timeBetweenShots: 0.5
   timeToDisableShotsEffects: 0.075
-  recoil: 0.5
+  recoil: 2
   recoilFactor: 0.0001
   stateBasedRecoil:
   - 0.015

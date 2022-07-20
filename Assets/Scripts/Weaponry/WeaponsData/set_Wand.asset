@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 820c2324fb6e3bb418698bdb4b3fcd3a, type: 3}
+  m_Name: set_Wand
+  m_EditorClassIdentifier: 
+  weaponType: 1
+  projectile: {fileID: 6708357991533860817, guid: fcb20041fff216047934fdf9ccaa3199, type: 3}
+  numOfProjectilesToFire: 2
+  timeBetweenShots: 0.15
+  timeToDisableShotsEffects: 0.075
+  recoil: 0.5
+  recoilFactor: 0.0001
+  stateBasedRecoil:
+  - 0.015
+  - 0.025
+  - 0.05
+  - 0.01
+  - 0.2
+  - 0.2
+  maxTracerRecoil: 0.005
+  smoothTimer: 0.2

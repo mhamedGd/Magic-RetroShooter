@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520bd3a627b141f45a77c48ea5512c91, type: 3}
+  m_Name: ExplosionPotion
+  m_EditorClassIdentifier: 
+  _name: Explosion Potion
+  _sprite: {fileID: 21300000, guid: 3d36b117a84d8374a96b1fb449acfb0c, type: 3}
+  _stackable: 1
+  _maxStock: 1
+  _description: A throwable potion that explodes on impact
+  _prefab: {fileID: 7187521062631832763, guid: 8f7a3191ed9d3974a8195e7d6cb2d9ee, type: 3}
+  _pickup: {fileID: 4333485825259094422, guid: 4dc1a8e424f3fa3419e6e9fa9167baf3, type: 3}

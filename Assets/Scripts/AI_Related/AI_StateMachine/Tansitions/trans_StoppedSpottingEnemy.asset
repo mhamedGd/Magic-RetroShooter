@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fedebe7e7d399e040bfb47d1c7a22644, type: 3}
+  m_Name: trans_StoppedSpottingEnemy
+  m_EditorClassIdentifier: 
+  decision: {fileID: 11400000, guid: 35c286f0cfcd7c14c85f447197c12dba, type: 2}
+  trueState: {fileID: 11400000, guid: 4eff9438192fd364fbd4d0b5471169c2, type: 2}
+  falseState: {fileID: 11400000, guid: cb7504a0f6f14b04baf5806dcf27d0b5, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f80effd5d4b855499d68b139ad4b8b8, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  _groundMasks:
+    serializedVersion: 2
+    m_Bits: 64
+  _speed: 0.8
+  _maxWalkSpeed: 3
+  _maxSprintSpeed: 6
+  _maxCrouchSpeed: 1
+  _cameraCrouchedPosition: 0
+  _cameraStandingPosition: 0.5
+  _cameraSensitivity: 0.2
+  _maxSlopeAngle: 50
+  _maxStepHeight: 0.5
+  _smoothStep: 0.5
+  _jumpForce: 5
+  _walkingWeaponSway: 1.5
+  _sprintingWeaponSway: 3
+  _crouchingWeaponSway: 0.75
